@@ -2,6 +2,12 @@
 
 Este repositório contém notebooks voltados para análise de espectros Raman, com foco em limpeza de dados e análise via PCA.
 
+## Dataset
+
+O conjunto de dados utilizado neste trabalho foi produzido por mim a partir de medições realizadas em um **Espectrômetro de Raman** no **Laboratório da Universidade Federal do Ceará (UFC)**. 
+
+Portanto, trata-se de um dataset **original e inédito**, desenvolvido especificamente para fins de pesquisa.
+
 ## Conteúdo
 
 - **data/**: Pasta destinada ao dataset (bruto e limpo).
